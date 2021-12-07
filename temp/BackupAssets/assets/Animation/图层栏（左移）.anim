@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "图层栏（左移）",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6666666666666666,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 416.37
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 222.062
+        }
+      ]
+    }
+  },
+  "events": []
+}
